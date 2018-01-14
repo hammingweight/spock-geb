@@ -1,2 +1,2 @@
 # spock-geb
-A skeleton Spock/Geb/Chrome project
+A skeleton Spock/Geb/Chrome project.
