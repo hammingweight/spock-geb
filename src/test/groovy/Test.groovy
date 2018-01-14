@@ -1,6 +1,6 @@
-import spock.lang.Specification
+import geb.spock.GebSpec
 
-class Test extends Specification {
+class Test extends GebSpec {
     def "expect should work"() {
         expect:
         true
