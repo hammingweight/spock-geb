@@ -1,8 +1,8 @@
 # spock-geb
-A skeleton Spock/Geb/Chrome project that can be run fro Gradle.
+A skeleton Spock/Geb/Chrome project that can be run from Gradle.
 
-This project is intended to get you going with Spock and Geb using the Chrome browser (and the
-Selenium driver) for that browser.
+This project is intended to get you going with Spock and Geb using the Chrome browser and the
+Selenium Chrome driver.
 
 ## Prerequisites
 Download the Chrome driver from https://sites.google.com/a/chromium.org/chromedriver/downloads

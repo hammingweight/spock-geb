@@ -11,6 +11,7 @@ dependencies {
     testCompile 'org.gebish:geb-junit4:0.13.1'
     testCompile 'org.gebish:geb-spock:2.0'
     testCompile "org.seleniumhq.selenium:selenium-chrome-driver:3.6.0"
+    testCompile "org.seleniumhq.selenium:selenium-java:3.9.1"
     testCompile 'junit:junit:4.12'
 }
 
